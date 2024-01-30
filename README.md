@@ -41,6 +41,7 @@ http://localhost:8000/index.php/v1/products (PUT)
 Api documentation
 https://documenter.getpostman.com/view/13819778/2s9YysE2UF
 
+token for test: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
 
 ## Future upgrades
 
