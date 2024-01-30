@@ -24,13 +24,13 @@ in this website an user with a valid token can make crud operations for products
 ## env file
 
 ###> symfony/framework-bundle ###
-APP_ENV=dev 
-APP_SECRET=ee6ca51265edc9160f940db037f5f91f 
-###< symfony/framework-bundle ###
+APP_ENV=dev  
+APP_SECRET=ee6ca51265edc9160f940db037f5f91f  
+###< symfony/framework-bundle ###  
 
-###> doctrine/doctrine-bundle ###
-DATABASE_URL=postgresql://cuchujero:Goku123!@postgresql-cuchujero.alwaysdata.net:5432/cuchujero_test 
-###< doctrine/doctrine-bundle ###
+###> doctrine/doctrine-bundle ###  
+DATABASE_URL=postgresql://cuchujero:Goku123!@postgresql-cuchujero.alwaysdata.net:5432/cuchujero_test  
+###< doctrine/doctrine-bundle ###  
 
 
 
